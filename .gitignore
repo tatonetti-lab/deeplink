@@ -1,3 +1,5 @@
 *~
 *pyc
 *.ipynb_checkpoints/*
+results*
+data/project_aers_10q4.pred_drug_events_e5.txt.gz
